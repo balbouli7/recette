@@ -1,0 +1,28 @@
+h2{
+    border-bottom: 1px rgb(255, 106, 0) solid;
+}
+img{
+    width: 300px;
+
+}
+div{text-align: center;
+margin: 50px;}
+p{
+   
+    border-left: 5px rgb(255, 106, 0) solid;
+    width: 50%;
+    padding: 20px;
+    line-height: 20px;
+}
+button{
+    width: 15%;
+    height: 30px;
+    background-color: rgb(255, 106, 0);
+}
+h1{
+    color: rgb(255, 106, 0);
+    text-align: center;
+}
+iframe{
+    border-radius: 10px;
+}
